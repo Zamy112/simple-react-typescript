@@ -1,0 +1,11 @@
+{
+  "customers": [
+    {
+      "first_name": "Zamy",
+      "last_name": "John",
+      "birth": "2004-06-15",
+      "phone": "3333341964509",
+      "id": 1
+    }
+  ]
+}
